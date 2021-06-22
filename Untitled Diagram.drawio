@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T12:51:42.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.7.6" etag="6GImtuUtwOSnsNXacFsD" type="github"><diagram id="OjwaGTFLLQXe0kFm5-Ge">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-22T13:38:13.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="oAWQB8i1N6ZcCx8nzgCN" version="14.7.6" type="github">
+  <diagram id="OjwaGTFLLQXe0kFm5-Ge" name="Page-1">
+    <mxGraphModel dx="865" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-1" value="印度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-2" value="歐美" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-3" value="台灣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-4" value="中國" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-7" value="&lt;div style=&quot;font-size: 14.6667px&quot;&gt;&lt;span id=&quot;docs-internal-guid-65883637-7fff-7f54-b843-f8051454c2ea&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: rgb(255 , 255 , 255) ; vertical-align: baseline&quot;&gt;2020 台灣醫療科技展提出遠距醫療相關概念，希望構建&lt;/span&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;全台第 1 個 5G 診療平台，從偏鄉地區優先型發展&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="270" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-10" value="&lt;b style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 14.6667px ; text-align: center&quot;&gt;平安好醫生平台:&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 14.6667px ; text-align: center&quot;&gt;日均諮詢量高達90.3萬&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: &amp;#34;arial&amp;#34; ; font-size: 11pt ; text-align: center&quot;&gt;總註冊用戶達3.93億&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 14.6667px&quot;&gt;範圍以擴建達9個城市&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; font-size: 14.6667px ; text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="270" width="240" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-11" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Lw55s7ZDX7yQ0Y-XzltO-12" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-weight: 400 ; text-align: center ; font-family: &amp;#34;microsoft jhenghei&amp;#34; ; vertical-align: baseline&quot;&gt;美國:只要醫生擁有許可證，無論身在何處，都可以治療病患。&lt;br&gt;歐美:極力推動遠距診療相關政策，根據g&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; text-align: center ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;rand view Reserach 分析，在2028年遠距醫療的產值將上看$2989億元，而報告中也提到&lt;/span&gt;&lt;span style=&quot;font-weight: 400 ; text-align: center ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(55 , 55 , 55) ; vertical-align: baseline&quot;&gt;遠程醫療在皮膚病學、精神病學、重症監護病房、急救護理、眼科和放射學中得到了廣泛的應用。遠程放射學部門佔 2020 年最大的收入份額&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="240" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
