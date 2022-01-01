@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-01T13:45:39.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-WBxQtcCuKKgyQdfOR1w" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-01T13:46:13.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ptfq1scH3COEt5H1Fda6" version="15.8.6" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1221" dy="1768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -114,13 +114,16 @@
           <mxGeometry x="1339" y="427" width="190" height="99" as="geometry" />
         </mxCell>
         <mxCell id="M-QFloDusU8JRtayOs1M-30" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Resource&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ resourceCache: dict&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ loading:array&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ readyCallbacks: array&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ isReady()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="275" y="-63.5" width="190" height="117" as="geometry" />
+          <mxGeometry x="1329" y="17.5" width="190" height="117" as="geometry" />
         </mxCell>
         <mxCell id="M-QFloDusU8JRtayOs1M-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="M-QFloDusU8JRtayOs1M-32" target="M-QFloDusU8JRtayOs1M-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-QFloDusU8JRtayOs1M-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Rubble&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ sprites: array&lt;br&gt;+ poss:array&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ vels: array&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ render()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ spawn()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ update()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ isPlayerCollided()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ checkCollisions()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
           <mxGeometry x="921" y="466" width="190" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="M-QFloDusU8JRtayOs1M-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=openThin;endFill=0;" edge="1" parent="1" source="M-QFloDusU8JRtayOs1M-34" target="M-QFloDusU8JRtayOs1M-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-QFloDusU8JRtayOs1M-34" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Sprite&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ img: image&lt;br&gt;+ speed:double&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ size: size&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ render()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ spawn()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ update()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setFrame()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
           <mxGeometry x="1606" y="0.5" width="198" height="151" as="geometry" />
